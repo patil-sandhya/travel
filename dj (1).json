@@ -1,0 +1,90 @@
+{
+    "destinations":[
+        {   "id": 1,
+            "img": "https://static.imanali.in/manali-tour-package-from-chandigarh-5-nights-6-days-by-volvo.jpg",
+            "h3":"Manali Package", 
+            "desc": "Kullu Manali Shimla has always been a very popular destination for the old, young travelers as well as newly married couples who look for cheapest Manali tour packages & Manali Honeymoon Packages to experience the perfect solitude and calmness at its best.",
+            "price": 8999  
+        },
+        {   "id": 2,  
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRWb1AAEQ7fJepOqQULSis4Nxvfp4Rqx5LOkmAa6sWQ&usqp=CAU&ec=48600113",
+            "h3":"Delhi Package",
+            "desc": "Boasting cultural diversity and rich heritage, Delhi is home to several temples, tombs, gardens, forts, museums, markets and more. We take you to some of the best spots in the city. Pick the best packages from here and enjoy the tour of Delhi with guide.",
+            "price":15000  
+        },
+        {   "id": 3,  
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLZy2zfcwl8GOKAcWN6p-z-pYNrT_4uwJnm2oS-EFWg&usqp=CAU&ec=48600113",
+            "h3":"Jaipur Package",
+            "desc": "We organise Jaipur & Rajasthan tours that offer incredible attractions like Forts and Palaces, Deserts, Traditional Villages, colorful cattle fairs, sacred places, camel safaris, beautiful lakes, hill stations and the people. ",
+            "price":11999 
+        },
+        {   "id": 4,  
+            "img": "https://toim.b-cdn.net/pictures/travel_guide/thmb/kerala-447.jpeg",
+            "h3":"Kerala Package",
+            "desc": "A trip to Kerala is always an experience through greenery to the hills and its climate. Browse through our hand-picked Kerala tour packages prepared for you. Our experts are also available to prepare customised tourism packages",
+            "price":9999  
+        },
+        {   "id": 5,  
+            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/88/db/ba/caption.jpg?w=500&h=400&s=1",
+            "h3":"Darjeeling",
+            "desc": "A trip to Darjeeling will include a ride on the famous Himalayan Railway, a visit to Tiger Hill, or a tour of the stunning landscaped gardens here. Activities like hiking and boating. Do not miss out on a trip to Darjeeling Is famous Mall Road",
+            "price":20000  
+        },
+        {   "id": 6,  
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPwIsHel7fD1fCWAJpSnliDZfTywMYpaddEWZDq_nbZwcG4cgGycFtPvDxp8iiC36RDlyvtHxsC4&usqp=CAU&ec=48600113",
+            "h3":"Goa Package",
+            "desc": "The most popular beach of Goa, Baga is located close to Calangute beach, around 30 Km North of Panaji. Baga is popular for its nightlife with some very famous clubs such as Brittos, Titos and Mambos.There is also a range of water sports that you can try your hands at.",
+            "price":35000
+        }
+    ],
+
+    "users": [
+        {
+          "id": 1,
+          "name": "Gertrudis Tatterton",
+          "address": "Tilak Nagar",
+          "city": "Pune",
+          "state":"Maharashtra",
+          "pin":421005,
+          "mobile":9878455145
+        },
+        {
+          "id": 2,
+          "name": "Gail Newbatt",
+          "address": "Gandhi Nagar",
+          "city": "Mumbai",
+          "state":"Maharashtra",
+          "pin":478005,
+          "mobile":9877455895
+        },
+        {
+          "id": 3,
+          "name": "Walliw Wilstead",
+          "address": "Estern Nagar",
+          "city": "Delhi",
+          "state":"Delhi",
+          "pin":111005,
+          "mobile":9878455145
+        },
+        {
+          "id": 4,
+          "name": "Abran Proback",
+          "address": "Delhi Cantt.",
+          "city": "Delhi",
+          "state":"Delhi",
+          "pin":112005,
+          "mobile":7878785145
+        },
+        {
+          "id": 5,
+          "name": "Roda Chappelow",
+          "address": "Laxmi Nagar",
+          "city": "Delhi",
+          "state":"Delhi",
+          "pin":128005,
+          "mobile":9878455145
+        }
+      ]
+
+}
+   
